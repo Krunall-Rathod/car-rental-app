@@ -21,5 +21,3 @@
 + MongoDB
 
 
-## Live Link
-https://thankful-purse-duck.cyclic.app/
