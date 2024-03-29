@@ -1,0 +1,43 @@
+/* home section */
+.homeSectionmain {
+  height: 100vh;
+  background-image: url("https://wallpaperaccess.com/full/2492629.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.homeSection {
+  padding: 10px;
+}
+
+.textContainer {
+  max-width: 600px;
+  margin: auto;
+  color: white;
+  margin-top: 100px;
+  text-align: center;
+  padding: 10px;
+}
+
+/* carlist */
+.carlist {
+  min-height: 100vh;
+  background-color: black;
+  color: aliceblue;
+}
+
+.carcard {
+  color: black;
+  background: skyblue !important;
+}
+
+.carCardImg {
+  height: 100%;
+  width: 100%;
+}
+
+/* bookingTable */
+.TableList{
+  overflow: auto;
+  overflow-x: auto;
+}
